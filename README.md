@@ -9,5 +9,5 @@ C++
 CompTIA A+ Certification
 ## Fun Facts
 I have a 10 year old dog named Apollo.  
-Last trip: Madrid & Barcelona  
-Next trip: Rome & Florence  
+Last trip: Madrid & Barcelona🇪🇸  
+Next trip: Rome & Florence🇮🇹
