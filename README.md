@@ -1,10 +1,14 @@
 ## Hi there 👋
 Currently pursuing a math education degree.
+
 Private math tutor for 7th-grad school.
+
 Mercor contractor- writer and reviewer.
+
 Nonprofit treasurer and grant writer.
 
 Dog mom 🐕
+
 World traveler 🗺
 <!--
 **cyrk11/cyrk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
